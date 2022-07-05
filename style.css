@@ -1,0 +1,25 @@
+
+#heading{
+    align-items: center;
+    color: black;
+    
+}
+#button{
+    text-decoration: none;
+    color: burlywood;
+    border: 1px solid white;
+    padding: 2px;
+    border-radius: 13px;
+}
+header{
+    
+}
+nav{
+    text-align: center;
+}
+#desc1{
+
+}
+#home{
+    text-shadow: 2px 2px 8px #FF0000;
+}
